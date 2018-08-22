@@ -3,7 +3,7 @@
 # My Way To being a Magento Developper 
 In this repo I will list my progress in learning and preparing for being a Magento Certified Developper.
 I used the book Magento 2 Developers Guide as the main studying material. but I will not be limited to that.
-![Magento Developers Guide](images/magento 2 developers guide.png)
+![Magento Developers Guide](images/magento%202%20developers%20guide.png)
 
 ## Day 1: 
 ### Understanding the Platform Architecture
